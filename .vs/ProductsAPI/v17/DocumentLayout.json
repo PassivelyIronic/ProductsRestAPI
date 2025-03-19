@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72F508-3FD0-41AE-83BD-C75FC4B41C7E}|ProductAPI.Test\\ProductAPI.Test.csproj|c:\\users\\jakub\\source\\repos\\productsapi\\productapi.test\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72F508-3FD0-41AE-83BD-C75FC4B41C7E}|ProductAPI.Test\\ProductAPI.Test.csproj|solutionrelative:productapi.test\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A2FC-F120-4273-A3AF-3B654EF50D65}|ProductsBDD\\ProductAPI.csproj|c:\\users\\jakub\\source\\repos\\productsapi\\productsbdd\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A2FC-F120-4273-A3AF-3B654EF50D65}|ProductsBDD\\ProductAPI.csproj|solutionrelative:productsbdd\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A2FC-F120-4273-A3AF-3B654EF50D65}|ProductsBDD\\ProductAPI.csproj|c:\\users\\jakub\\source\\repos\\productsapi\\productsbdd\\data\\forbiddenwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A2FC-F120-4273-A3AF-3B654EF50D65}|ProductsBDD\\ProductAPI.csproj|solutionrelative:productsbdd\\data\\forbiddenwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A2FC-F120-4273-A3AF-3B654EF50D65}|ProductsBDD\\ProductAPI.csproj|c:\\users\\jakub\\source\\repos\\productsapi\\productsbdd\\data\\iforbiddenwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A2FC-F120-4273-A3AF-3B654EF50D65}|ProductsBDD\\ProductAPI.csproj|solutionrelative:productsbdd\\data\\iforbiddenwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A2FC-F120-4273-A3AF-3B654EF50D65}|ProductsBDD\\ProductAPI.csproj|c:\\users\\jakub\\source\\repos\\productsapi\\productsbdd\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A2FC-F120-4273-A3AF-3B654EF50D65}|ProductsBDD\\ProductAPI.csproj|solutionrelative:productsbdd\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72F508-3FD0-41AE-83BD-C75FC4B41C7E}|ProductAPI.Test\\ProductAPI.Test.csproj|c:\\users\\jakub\\source\\repos\\productsapi\\productapi.test\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72F508-3FD0-41AE-83BD-C75FC4B41C7E}|ProductAPI.Test\\ProductAPI.Test.csproj|solutionrelative:productapi.test\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72F508-3FD0-41AE-83BD-C75FC4B41C7E}|ProductAPI.Test\\ProductAPI.Test.csproj|c:\\users\\jakub\\source\\repos\\productsapi\\productapi.test\\productapi.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE72F508-3FD0-41AE-83BD-C75FC4B41C7E}|ProductAPI.Test\\ProductAPI.Test.csproj|solutionrelative:productapi.test\\productapi.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductsBDD\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductsBDD\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductsBDD\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductsBDD\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:32:48.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForbiddenWordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductsBDD\\Data\\ForbiddenWordRepository.cs",
+              "RelativeDocumentMoniker": "ProductsBDD\\Data\\ForbiddenWordRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductsBDD\\Data\\ForbiddenWordRepository.cs",
+              "RelativeToolTip": "ProductsBDD\\Data\\ForbiddenWordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:32:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IForbiddenWordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductsBDD\\Data\\IForbiddenWordRepository.cs",
+              "RelativeDocumentMoniker": "ProductsBDD\\Data\\IForbiddenWordRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductsBDD\\Data\\IForbiddenWordRepository.cs",
+              "RelativeToolTip": "ProductsBDD\\Data\\IForbiddenWordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:32:42.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductAPI.Test\\ProductServiceTest.cs",
+              "RelativeDocumentMoniker": "ProductAPI.Test\\ProductServiceTest.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductAPI.Test\\ProductServiceTest.cs",
+              "RelativeToolTip": "ProductAPI.Test\\ProductServiceTest.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:46:46.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductsBDD\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductsBDD\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductsBDD\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductsBDD\\Services\\ProductService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv28AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:45:45.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductAPI.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductAPI.Test\\ProductAPI.Test.csproj",
+              "RelativeDocumentMoniker": "ProductAPI.Test\\ProductAPI.Test.csproj",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductAPI.Test\\ProductAPI.Test.csproj",
+              "RelativeToolTip": "ProductAPI.Test\\ProductAPI.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T20:44:06.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductAPI.Test\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "ProductAPI.Test\\ProductControllerTest.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ProductsAPI\\ProductAPI.Test\\ProductControllerTest.cs",
+              "RelativeToolTip": "ProductAPI.Test\\ProductControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:34:29.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
